@@ -35,6 +35,9 @@ Removed rows with no useful layoff data
 
 Dropped unnecessary columns
 
+Outcome
+Clean, consistent dataset ready for analysis and visualization
+
 -- Exploratory-Data-Analysis-EDA
 
 Objectives
@@ -46,13 +49,14 @@ Understand yearly trends
 Rank top companies by layoffs per year
 
 --  Key Insights Summary
+
 1.Layoffs peaked in 2022
+
 2.Amazon had the highest layoffs among companies
+
 3. Consumer industry was most impacted
+
 4. United States faced the largest number of layoffs
+
 5. 116 companies had complete (100%) layoffs
 
-
-
-Outcome
-Clean, consistent dataset ready for analysis and visualization
